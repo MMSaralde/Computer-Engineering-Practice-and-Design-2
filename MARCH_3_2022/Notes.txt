@@ -29,3 +29,8 @@ block diagram - mag update ✅
 video presentation & ppt - tignan yung luma, dagdagan yun ✅
 working circuit - simulation - kasama yung comment ng panel -tanungen si charles ✅
 materials for prototype - gawin kapag tapos na yung circuit ✅
+
+
+HVAC UV-C system disinfection
+UVC max distance ng disinfection
+potential testing methodology para sa statement of the problem 2 -3 
