@@ -2,15 +2,12 @@ Design Project 1 Repo:
 
 https://drive.google.com/drive/folders/1G9mV3-HDDsvCLnp6IbfzFjSbUOZBhDQb
 
- https://drive.google.com/drive/folders/14ndBSBBAWRhVZoyzfI-G2VYCIMkkE34v
+https://drive.google.com/drive/folders/14ndBSBBAWRhVZoyzfI-G2VYCIMkkE34v
 
 March 12, 2:30 PM Defense
-Letter of permission kunen kay kalbo
+Letter of permission kunen kay kalbo - ✅
 Chapter 4
 
-
-materials ng proto - semi done
-mag review ng papel - 
 
 
 revise flowchart and block diag
@@ -34,3 +31,9 @@ materials for prototype - gawin kapag tapos na yung circuit ✅
 HVAC UV-C system disinfection
 UVC max distance ng disinfection
 potential testing methodology para sa statement of the problem 2 -3 
+
+
+tumatagos ba uvc sa glass
+aluminum uvc relationship rrl
+insulator
+angle bar
