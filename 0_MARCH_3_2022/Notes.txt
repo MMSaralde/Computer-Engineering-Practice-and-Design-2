@@ -13,3 +13,31 @@ HVAC UV-C system disinfection
 UVC max distance ng disinfection
 
 
+tpK1njhW46RI20SEFGvF
+
+
+revise flowchart and block diag
+tumatagos ba uvc sa glass
+aluminum uvc relationship rrl
+HVAC UV-C system disinfection
+UVC max distance ng disinfection
+
+
+Chapter 4
+PRESENTATION, ANALYSIS AND INTERPRETATION OF DATA
+
+Components of the Proposed System
+System Implementation (Hardware)
+Materials and Specifications
+Detailed Procedure
+Block Diagram
+flow chart
+Source Code/Software
+Component Analysis
+Schematic Diagram
+Fabrication of the Device
+Functionality Testing
+Survey Results and Discussion
+
+
+
